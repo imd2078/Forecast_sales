@@ -7,3 +7,4 @@ The following projects are included -
 2. **Forcasting** - This project forecasts sales data for a week in future. The data used for this project was time-series in nature hence algorithms like ARIMA, FB Prophet, Holt-Winters etc were compared.
 3. **parallel1 and parallel2** - Sparse Matrix multiplication using parallel computing was implemented using two different methods. MPI library us used (a C library).
 4. **streaming-1st-query** - This project is incomplete, this project uses kafka and pyspark to stream taxi data from a file and calculate stats in "real time". This file just includes the 1st query, the complete project consisted of 3 queries and kafka configuration.
+5. **object-detection** - This project detects the vortex core formed around the golf ball. This study can give us insights as to the aerodynamics of the golf ball.
